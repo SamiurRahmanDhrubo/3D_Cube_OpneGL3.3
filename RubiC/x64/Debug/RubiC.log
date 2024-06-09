@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\OGL\RubiC\main.cpp(304,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OGL\RubiC\main.cpp(305,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OGL\RubiC\main.cpp(309,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OGL\RubiC\main.cpp(310,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OGL\RubiC\main.cpp(311,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OGL\RubiC\main.cpp(312,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OGL\RubiC\main.cpp(334,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  RubiC.vcxproj -> D:\OGL\RubiC\x64\Debug\RubiC.exe
